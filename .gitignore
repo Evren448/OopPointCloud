@@ -1,0 +1,9 @@
+#>>>>> "proje_ismi" klasörünün içindeki herşey dışlanıyor ve .cpp, .h gibi gerekli dosyaları dışlamıyor.
+#--------------------------------------------------------------------------------------------------------
+/**
+!.gitignore
+!*/
+
+
+!*.cpp
+!*.h
